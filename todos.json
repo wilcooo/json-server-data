@@ -1,0 +1,12 @@
+{
+    "todos": [
+        {
+            "type": "big",
+            "todo": "learn to play the piano"
+        },
+        {
+            "type": "samll",
+            "todo": "brush my teeth"
+        }
+    ]
+}
